@@ -1,0 +1,15 @@
+//Expressjs Framework
+
+//Introducton to Expressjs
+--Expressjs manages Everything from receiving the request and giving response
+--Express js npm kpakge hai
+--framework->Gives the Basic Structure or we can say flow
+--libraries->
+
+//Setting basic Expressjs
+
+//Routing
+--routes misddleware ka diagram hai
+ -
+
+//Midlleware
