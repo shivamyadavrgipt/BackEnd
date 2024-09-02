@@ -1,0 +1,7 @@
+--verify the user is he valid user->Authentication
+--authorized to perform some tassk-->authorization
+--cookies and session->har baar authorization and Authentication na karna pade isliye 
+    -cokke kese set karte hai
+        -cookie set kardiya to chipak k jata h dusre page pe bhi
+--bcrypt kaise use karte hai for password encyption
+--jwt kya hai and kaise data store karte hai and bahar kaise nikalein 

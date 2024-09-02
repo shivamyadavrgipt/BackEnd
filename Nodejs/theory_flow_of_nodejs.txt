@@ -1,0 +1,34 @@
+Nodejs is not language
+# It is js runtime envoirnment 
+
+//working with node and npm
+//node &npm
+//npm init->lekha joka -> baout project
+we will learn
+--callback api
+--HTTP
+//node understanding
+--Module and pakage
+ -node js ke core me pre installed ata hai
+ -npm se jo download karte hai 
+  ex:-text to speech npm converter
+
+//Installing and Unistalling basic and advance
+--npm install pakage_ka_naam@version_ka_number
+
+//Understanding Node_Modules
+--dependies:-pakages and pakages ki dependies
+--de dependies:-Aesee pakages jo bas devlopment me kaam aae site deploy hone k baad no use
+
+///Scripts
+--we write following script. why?
+ -npm start
+ -npm test
+ -npm dev
+sol:-pakge.json me fixed kardiya jata hai kis command pe kya hoga i.e we can customise the script
+
+//working with modules
+//file system operations
+//understanding HTTP module
+
+ 

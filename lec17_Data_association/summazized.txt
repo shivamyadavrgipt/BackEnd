@@ -1,0 +1,6 @@
+///what we will going to Document
+--User post likh Pae
+--user create karna hai
+--login logout
+--like karna
+--delete option only for post owner
