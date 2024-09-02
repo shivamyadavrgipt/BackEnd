@@ -1,0 +1,14 @@
+//setting up parsers for form
+--install ejs from npm
+  -ejs->basically frontend->have dynamic power
+  -set ejs as a for view engine
+  
+
+//setting up ejs for ejs pakages
+//setting up public static files
+//dynamic routing
+    -dynamic routing
+    -How to get data coming from frontend and backend route
+
+//Dynamic routing
+--

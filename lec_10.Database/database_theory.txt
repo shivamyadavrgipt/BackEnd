@@ -1,0 +1,16 @@
+//Database
+--Types of DBS|| NoSQL
+    -NoSQL--MongoDB
+--Servers in backend
+    -Application Servers-->routes vagera except data wala kaam 
+    -Data base Servers
+--DataBase-->collection-->Document
+  ex:-Amazon-->sales-->books
+
+CODE                 DataBase
+--------------------------------------------------------------
+mongoose.connect --> DataBase create
+model create     --> collection
+CREATE           --> Document     
+
+==>Mongodb installation
