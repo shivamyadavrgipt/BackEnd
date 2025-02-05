@@ -8,7 +8,7 @@ app.get('/Profile', function (req, res,next) {
     return next(new Error("Something weent wrong"))
   });
 
-  //error Handling
+  //error Handling--pehlw ye chaleega 
   app.use((err,req, res,next) {
     console.error(err.stack)
     res.status(500).send('Somethinng went wrong')
